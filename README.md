@@ -9,6 +9,11 @@ This Chatbot is purely built using Groq LLM module for analysis generation, GTTS
 4. reportlab - for pdf of report generation
 5. gtts- for TTS
 
+### procedure
+1. create virtual evironment
+2. streamlit run <filename>.py for running streamlit UI
+3. python <filename>.py for running folium (maps)
+
 ### Images
 
 <img width="1912" height="962" alt="image" src="https://github.com/user-attachments/assets/0aaa895a-4b10-49a0-b3fc-cead4ba76bb0" />
